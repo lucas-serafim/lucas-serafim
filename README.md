@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Lucas
+# Olá! 👋 Me chamo Lucas
 
 ### Desenvolvedor(a) | Entusiasta de Tecnologia | Engenheiro de software | Arquitetura
 
