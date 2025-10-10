@@ -1,16 +1,33 @@
-### Hi there 👋
+# Olá! 👋 Eu sou Lucas
 
-<!--
-**lucas-serafim/lucas-serafim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor(a) | Entusiasta de Tecnologia | Engenheiro de software | Arquitetura
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu espaço no GitHub! Sou apaixonado(a) por resolver problemas de maneira inteligente e aprender novas tecnolgias e aplicalas no mundo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+
+* **🎓 Formação/Experiência:** Sou formado em Ciências da Computação pela Anhembi Morumbi. Atuo na área de desenvolvimento de software há quase 5 anos. Meu foco é na área financeira, com abertura e manipulação de contas de pagamento e transações bancárias. 
+* **💻 Atualmente Focado(a) em:** Hoje trabalho mais com NodeJS, typescript, NestJS e AWS. Mas também estou começando a desenvolver por conta própria aplicações em Java com Spring.
+* **🌱 Estou Aprendendo:** Arquitetura de software, como desenvolver códigos mais limpos e escaláveis a longo prazo, e o próprio java.
+
+---
+
+### 🛠️ Minhas Habilidades e Ferramentas Favoritas
+
+| Categoria | Habilidades/Ferramentas |
+| :--- | :--- |
+| **Linguagens** | `[Typescript]` `[JavaScript]` `[Java]` |
+| **Back-end** | `[Node.js]` `[Express]` `[Spring Boot]` |
+| **Banco de Dados**| `[PostgreSQL]` `[MongoDB]` `[Oracle]` `[DynamoDB]` |
+| **Outros** | `[Docker]` `[Git/GitHub]` `[AWS]` |
+
+---
+
+### 🌐 Conecte-se Comigo
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | https://www.linkedin.com/in/lucas-serafim-b383971ab/ |
+| **Email** | lucas.serafim159@gmail.com |
