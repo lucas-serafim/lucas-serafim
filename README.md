@@ -29,5 +29,5 @@ Bem-vindo(a) ao meu espaço no GitHub! Sou apaixonado em resolver problemas de m
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/lucas-serafim-b383971ab/](https://www.linkedin.com/in/lucas-serafim-carvalho/) |
+| **LinkedIn** | [https://www.linkedin.com/in/lucas-serafim-carvalho/] |
 | **Email** | lucas.serafim159@gmail.com |
