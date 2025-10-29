@@ -10,7 +10,7 @@ Bem-vindo(a) ao meu espaço no GitHub! Sou apaixonado(a) por resolver problemas 
 
 * **🎓 Formação/Experiência:** Sou formado em Ciências da Computação pela Anhembi Morumbi. Atuo na área de desenvolvimento de software há quase 5 anos. Meu foco é na área financeira, com abertura e manipulação de contas de pagamento e transações bancárias. 
 * **💻 Atualmente Focado(a) em:** Hoje trabalho mais com NodeJS, typescript, NestJS e AWS. Mas também estou começando a desenvolver por conta própria aplicações em Java com Spring.
-* **🌱 Estou Aprendendo:** Arquitetura de software, como desenvolver códigos mais limpos e escaláveis a longo prazo, e o próprio java.
+* **🌱 Estou Aprendendo e tenho interesse:** Arquitetura de software, Java, Spring Boot, Google Cloud dentro outras tecnologias relacionadas.
 
 ---
 
