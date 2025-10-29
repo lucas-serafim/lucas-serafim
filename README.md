@@ -1,8 +1,8 @@
 # Olá! 👋 Me chamo Lucas
 
-### Desenvolvedor(a) | Entusiasta de Tecnologia | Engenheiro de software | Arquitetura
+### Desenvolvedor | Entusiasta de Tecnologia | Engenheiro de software | Arquitetura
 
-Bem-vindo(a) ao meu espaço no GitHub! Sou apaixonado(a) por resolver problemas de maneira inteligente e aprender novas tecnolgias e aplicalas no mundo real.
+Bem-vindo(a) ao meu espaço no GitHub! Sou apaixonado em resolver problemas de maneira inteligente e aprender novas tecnolgias e aplicalas no mundo real.
 
 ---
 
@@ -29,5 +29,5 @@ Bem-vindo(a) ao meu espaço no GitHub! Sou apaixonado(a) por resolver problemas 
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | https://www.linkedin.com/in/lucas-serafim-b383971ab/ |
+| **LinkedIn** | [https://www.linkedin.com/in/lucas-serafim-b383971ab/](https://www.linkedin.com/in/lucas-serafim-carvalho/) |
 | **Email** | lucas.serafim159@gmail.com |
